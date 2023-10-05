@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mysimpleflaskapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_848C8C5A9F9C402F8F5743EC463CBE1A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B62A0489E63B4E5B85CA694C119BEE71 }}
